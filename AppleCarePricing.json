@@ -1,0 +1,162 @@
+{
+  "iPhone": {
+    "iPhone 17 Pro / 17 Pro Max": {
+      "applecare": "$199 (2 Year) or $10.49/month",
+      "theft_loss": "$269 (2 Year) or $13.99/month",
+      "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
+    },
+    "iPhone Air": {
+      "applecare": "$199 (2 Year) or $10.49/month",
+      "theft_loss": "$269 (2 Year) or $13.99/month",
+      "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
+    },
+    "iPhone 16 Plus / 15 Plus": {
+      "applecare": "$179 (2 Year) or $9.49/month",
+      "theft_loss": "$249 (2 Year) or $12.99/month",
+      "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
+    },
+    "iPhone 17 / 16 / 15 / 14": {
+      "applecare": "$149 (2 Year) or $8.49/month",
+      "theft_loss": "$219 (2 Year) or $11.99/month",
+      "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
+    },
+    "iPhone 16e": {
+      "applecare": "$119 (2 Year) or $6.49/month",
+      "theft_loss": "$189 (2 Year) or $9.99/month",
+      "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
+    }
+  },
+  "Mac": {
+    "13\" MacBook Air M2": {
+      "applecare": "$179 (3 Year) or $259 (4 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+    },
+    "13\" MacBook Air M3": {
+      "applecare": "$199 (3 Year) or $279 (4 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+    },
+    "15\" MacBook Air": {
+      "applecare": "$229 (3 Year) or $309 (4 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+    },
+    "14\" MacBook Pro": {
+      "applecare": "$279 (3 Year) or $409 (4 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+    },
+    "16\" MacBook Pro": {
+      "applecare": "$399 (3 Year) or $529 (4 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+    },
+    "Mac mini": {
+      "applecare": "$99 (3 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Enclosure / $299 Other"
+    },
+    "iMac": {
+      "applecare": "$169 (3 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+    },
+    "Mac Studio": {
+      "applecare": "$169 (3 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Enclosure / $299 Other"
+    },
+    "Apple Studio Display": {
+      "applecare": "$149 (3 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+    },
+    "Pro Display XDR": {
+      "applecare": "$499 (3 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+    }
+  },
+  "iPad": {
+    "iPad (A16) / iPad mini": {
+      "applecare": "$69 (2 Year) or $2.99/month",
+      "theft_loss": "$109 (2 Year) or $4.99/month",
+      "service_fee": "$29 Screen / $99 Other / $29 Accessories"
+    },
+    "iPad Air 11-inch (M3)": {
+      "applecare": "$79 (2 Year) or $3.99/month",
+      "theft_loss": "$119 (2 Year) or $5.99/month",
+      "service_fee": "$29 Screen / $99 Other / $29 Accessories"
+    },
+    "iPad Air 13-inch (M3)": {
+      "applecare": "$99 (2 Year) or $4.99/month",
+      "theft_loss": "$139 (2 Year) or $6.99/month",
+      "service_fee": "$29 Screen / $99 Other / $29 Accessories"
+    },
+    "iPad Pro 11-inch (M5)": {
+      "applecare": "$149 (2 Year) or $7.99/month",
+      "theft_loss": "$189 (2 Year) or $9.99/month",
+      "service_fee": "$29 Screen / $99 Other / $29 Accessories"
+    },
+    "iPad Pro 13-inch (M5)": {
+      "applecare": "$169 (2 Year) or $8.99/month",
+      "theft_loss": "$209 (2 Year) or $10.99/month",
+      "service_fee": "$29 Screen / $99 Other / $29 Accessories"
+    }
+  },
+  "Apple Watch": {
+    "Apple Watch SE 3": {
+      "applecare": "$49 (2 Year) or $1.99/month",
+      "theft_loss": "$69 (2 Year) or $2.99/month",
+      "service_fee": "$69"
+    },
+    "Apple Watch Series 11": {
+      "applecare": "$79 (2 Year) or $3.99/month",
+      "theft_loss": "$99 (2 Year) or $4.99/month",
+      "service_fee": "$69"
+    },
+    "Apple Watch Ultra 3": {
+      "applecare": "$99 (2 Year) or $4.99/month",
+      "theft_loss": "$119 (2 Year) or $5.99/month",
+      "service_fee": "$79"
+    }
+  },
+  "Audio / Home": {
+    "Beats Pill": {
+      "applecare": "$29 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$29"
+    },
+    "HomePod mini": {
+      "applecare": "$15 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$15"
+    },
+    "HomePod": {
+      "applecare": "$39 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$39"
+    },
+    "Headphones": {
+      "applecare": "$29 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$29"
+    },
+    "AirPods Pro 3": {
+      "applecare": "$39 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$29"
+    },
+    "AirPods Max": {
+      "applecare": "$59 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$29"
+    },
+    "Apple TV 4K (3rd generation)": {
+      "applecare": "$29 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$15"
+    }
+  }
+}
