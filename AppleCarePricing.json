@@ -1,5 +1,5 @@
 {
-  "iPhone": {
+  "📱iPhone": {
     "iPhone 17 Pro / 17 Pro Max": {
       "applecare": "$199 (2 Year) or $10.49/month",
       "theft_loss": "$269 (2 Year) or $13.99/month",
@@ -26,7 +26,7 @@
       "service_fee": "$29 Screen / $29 Back-glass / $99 Other"
     }
   },
-  "Mac": {
+  "💻MacBooks": {
     "13\" MacBook Air M2": {
       "applecare": "$179 (3 Year) or $259 (4 Year)",
       "theft_loss": "N/A",
@@ -51,7 +51,9 @@
       "applecare": "$399 (3 Year) or $529 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
-    },
+    }
+  },
+  "🖥️Desktops": {
     "Mac mini": {
       "applecare": "$99 (3 Year)",
       "theft_loss": "N/A",
@@ -78,7 +80,7 @@
       "service_fee": "$99 Screen / $299 Other"
     }
   },
-  "iPad": {
+  "📲iPad": {
     "iPad (A16) / iPad mini": {
       "applecare": "$69 (2 Year) or $2.99/month",
       "theft_loss": "$109 (2 Year) or $4.99/month",
@@ -105,7 +107,7 @@
       "service_fee": "$29 Screen / $99 Other / $29 Accessories"
     }
   },
-  "Apple Watch": {
+  "⌚️Apple Watch": {
     "Apple Watch SE 3": {
       "applecare": "$49 (2 Year) or $1.99/month",
       "theft_loss": "$69 (2 Year) or $2.99/month",
@@ -122,7 +124,7 @@
       "service_fee": "$79"
     }
   },
-  "Audio / Home": {
+  "🎧Audio / Home": {
     "Beats Pill": {
       "applecare": "$29 (2 Year)",
       "theft_loss": "N/A",
