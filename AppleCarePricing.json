@@ -32,18 +32,18 @@
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
-    "13\" MacBook Air M4": {
+    "13\" MacBook Air M5": {
       "applecare": "$199 (3 Year) or $279 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
     "15\" MacBook Air": {
-      "applecare": "$229 (3 Year) or $309 (4 Year)",
+      "applecare": "$229 (3 Year) or $299 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
     "14\" MacBook Pro": {
-      "applecare": "$279 (3 Year) or $409 (4 Year)",
+      "applecare": "$279 (3 Year) or $399 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
@@ -75,7 +75,7 @@
       "service_fee": "$99 Screen / $299 Other"
     },
     "Pro Display XDR": {
-      "applecare": "$499 (3 Year)",
+      "applecare": "$299 (3 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     }
@@ -86,12 +86,12 @@
       "theft_loss": "$109 (2 Year) or $4.99/month",
       "service_fee": "$29 Screen / $99 Other / $29 Accessories"
     },
-    "iPad Air 11-inch (M3)": {
+    "iPad Air 11-inch (M4)": {
       "applecare": "$79 (2 Year) or $3.99/month",
       "theft_loss": "$119 (2 Year) or $5.99/month",
       "service_fee": "$29 Screen / $99 Other / $29 Accessories"
     },
-    "iPad Air 13-inch (M3)": {
+    "iPad Air 13-inch (M4)": {
       "applecare": "$99 (2 Year) or $4.99/month",
       "theft_loss": "$139 (2 Year) or $6.99/month",
       "service_fee": "$29 Screen / $99 Other / $29 Accessories"
