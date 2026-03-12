@@ -27,17 +27,17 @@
     }
   },
   "💻MacBooks": {
-    "13\" MacBook Air M2": {
-      "applecare": "$179 (3 Year) or $259 (4 Year)",
+    "13\" MacBook Neo": {
+      "applecare": "$139 (3 Year) or $199 (4 Year)",
       "theft_loss": "N/A",
-      "service_fee": "$99 Screen / $299 Other"
+      "service_fee": "$49 Screen / $149 Other"
     },
     "13\" MacBook Air M5": {
       "applecare": "$199 (3 Year) or $279 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
-    "15\" MacBook Air": {
+    "15\" MacBook Air M5": {
       "applecare": "$229 (3 Year) or $299 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
