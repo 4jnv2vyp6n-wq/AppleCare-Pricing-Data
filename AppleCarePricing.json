@@ -28,44 +28,44 @@
   },
   "💻MacBooks": {
     "13\" MacBook Neo": {
-      "applecare": "$139 (3 Year) or $199 (4 Year)",
+      "applecare": "$159 (3 Year) or $219 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$49 Screen / $149 Other"
     },
     "13\" MacBook Air M5": {
-      "applecare": "$199 (3 Year) or $279 (4 Year)",
+      "applecare": "$219 (3 Year) or $299 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
     "15\" MacBook Air M5": {
-      "applecare": "$229 (3 Year) or $299 (4 Year)",
+      "applecare": "$249 (3 Year) or $329 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
     "14\" MacBook Pro": {
-      "applecare": "$279 (3 Year) or $399 (4 Year)",
+      "applecare": "$299 (3 Year) or $429 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
     "16\" MacBook Pro": {
-      "applecare": "$399 (3 Year) or $529 (4 Year)",
+      "applecare": "$419 (3 Year) or $549 (4 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     }
   },
   "🖥️Desktops": {
     "Mac mini": {
-      "applecare": "$99 (3 Year)",
+      "applecare": "$119 (3 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Enclosure / $299 Other"
     },
     "iMac": {
-      "applecare": "$169 (3 Year)",
+      "applecare": "$189 (3 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
     "Mac Studio": {
-      "applecare": "$169 (3 Year)",
+      "applecare": "$189 (3 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Enclosure / $299 Other"
     },
@@ -82,28 +82,28 @@
   },
   "📲iPad": {
     "iPad (A16) / iPad mini": {
-      "applecare": "$69 (2 Year) or $2.99/month",
-      "theft_loss": "$109 (2 Year) or $4.99/month",
+      "applecare": "$79 (2 Year) or $3.49/month",
+      "theft_loss": "$119 (2 Year) or $5.49/month",
       "service_fee": "$29 Screen / $99 Other / $29 Accessories"
     },
     "iPad Air 11-inch (M4)": {
-      "applecare": "$79 (2 Year) or $3.99/month",
-      "theft_loss": "$119 (2 Year) or $5.99/month",
+      "applecare": "$89 (2 Year) or $4.49/month",
+      "theft_loss": "$129 (2 Year) or $6.49/month",
       "service_fee": "$29 Screen / $99 Other / $29 Accessories"
     },
     "iPad Air 13-inch (M4)": {
-      "applecare": "$99 (2 Year) or $4.99/month",
-      "theft_loss": "$139 (2 Year) or $6.99/month",
+      "applecare": "$109 (2 Year) or $5.49/month",
+      "theft_loss": "$149 (2 Year) or $7.49/month",
       "service_fee": "$29 Screen / $99 Other / $29 Accessories"
     },
     "iPad Pro 11-inch (M5)": {
-      "applecare": "$149 (2 Year) or $7.99/month",
-      "theft_loss": "$189 (2 Year) or $9.99/month",
+      "applecare": "$159 (2 Year) or $8.49/month",
+      "theft_loss": "$199 (2 Year) or $10.49/month",
       "service_fee": "$29 Screen / $99 Other / $29 Accessories"
     },
     "iPad Pro 13-inch (M5)": {
-      "applecare": "$169 (2 Year) or $8.99/month",
-      "theft_loss": "$209 (2 Year) or $10.99/month",
+      "applecare": "$179 (2 Year) or $9.49/month",
+      "theft_loss": "$219 (2 Year) or $11.49/month",
       "service_fee": "$29 Screen / $99 Other / $29 Accessories"
     }
   },
