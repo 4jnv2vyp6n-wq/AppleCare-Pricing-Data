@@ -91,9 +91,14 @@
     }
   },
   "📲iPad": {
-    "iPad (A16) / iPad mini": {
+    "iPad (A16)": {
       "applecare": "$79 (2 Year) or $3.49/month",
       "theft_loss": "$119 (2 Year) or $5.49/month",
+      "service_fee": "$29 Screen / $99 Other / $29 Accessories"
+    },
+    "iPad mini": {
+      "applecare": "$79 (2 Year) or $3.99/month",
+      "theft_loss": "$119 (2 Year) or $5.99/month",
       "service_fee": "$29 Screen / $99 Other / $29 Accessories"
     },
     "iPad Air 11-inch (M4)": {
@@ -141,7 +146,7 @@
       "service_fee": "$29"
     },
     "HomePod mini": {
-      "applecare": "$15 (2 Year)",
+      "applecare": "$19 (2 Year)",
       "theft_loss": "N/A",
       "service_fee": "$15"
     },
