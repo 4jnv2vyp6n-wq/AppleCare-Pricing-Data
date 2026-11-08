@@ -47,6 +47,16 @@
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
+    "16\" MacBook PROLED": {
+      "applecare": "$539 (3 Year) or $749 (4 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+    },
+    "14\" MacBook PROLED": {
+      "applecare": "$449 (3 Year) or $629 (4 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$99 Screen / $299 Other"
+    },
     "16\" MacBook Pro": {
       "applecare": "$419 (3 Year) or $549 (4 Year)",
       "theft_loss": "N/A",
@@ -60,7 +70,7 @@
       "service_fee": "$99 Enclosure / $299 Other"
     },
     "iMac": {
-      "applecare": "$189 (3 Year)",
+      "applecare": "$209 (3 Year)",
       "theft_loss": "N/A",
       "service_fee": "$99 Screen / $299 Other"
     },
