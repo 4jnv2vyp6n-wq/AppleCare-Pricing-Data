@@ -134,7 +134,7 @@
       "service_fee": "$79"
     }
   },
-  "🎧Audio / 🏠Home": {
+  "🎧Audio": {
     "Beats Pill": {
       "applecare": "$29 (2 Year)",
       "theft_loss": "N/A",
@@ -154,11 +154,6 @@
       "applecare": "$59 (2 Year)",
       "theft_loss": "N/A",
       "service_fee": "$29"
-    },
-    "Apple TV 4K (3rd generation)": {
-      "applecare": "$29 (2 Year)",
-      "theft_loss": "N/A",
-      "service_fee": "$15"
     }
   },
   "🏠Home": {
@@ -172,7 +167,10 @@
       "theft_loss": "N/A",
       "service_fee": "$39"
     },
-    
+    "Apple TV 4K (3rd generation)": {
+      "applecare": "$29 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$15"
     }
   }
 }
