@@ -140,16 +140,6 @@
       "theft_loss": "N/A",
       "service_fee": "$29"
     },
-    "HomePod mini": {
-      "applecare": "$19 (2 Year)",
-      "theft_loss": "N/A",
-      "service_fee": "$15"
-    },
-    "HomePod": {
-      "applecare": "$39 (2 Year)",
-      "theft_loss": "N/A",
-      "service_fee": "$39"
-    },
     "Headphones": {
       "applecare": "$29 (2 Year)",
       "theft_loss": "N/A",
@@ -172,9 +162,17 @@
     }
   },
   "🏠Home": {
-    "Beats Pill": {
-      "applecare": "$29 (2 Year)",
+    "HomePod mini": {
+      "applecare": "$19 (2 Year)",
       "theft_loss": "N/A",
-      "service_fee": "$29"
+      "service_fee": "$15"
     },
+    "HomePod": {
+      "applecare": "$39 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$39"
+    },
+    
+    }
+  }
 }
