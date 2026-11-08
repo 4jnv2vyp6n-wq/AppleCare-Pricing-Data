@@ -170,5 +170,11 @@
       "theft_loss": "N/A",
       "service_fee": "$15"
     }
-  }
+  },
+  "🏠Home": {
+    "Beats Pill": {
+      "applecare": "$29 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$29"
+    },
 }
