@@ -157,7 +157,7 @@
     }
   },
   "🏠Home": {
-    "HomePod mini": {
+    "HomePod mini 2": {
       "applecare": "$19 (2 Year)",
       "theft_loss": "N/A",
       "service_fee": "$15"
@@ -167,10 +167,15 @@
       "theft_loss": "N/A",
       "service_fee": "$39"
     },
-    "Apple TV 4K (3rd generation)": {
-      "applecare": "$29 (2 Year)",
+    "Apple TV 4K (4th generation)": {
+      "applecare": "$49 (3 Year)",
       "theft_loss": "N/A",
       "service_fee": "$15" 
+    },
+    "HomeView": {
+      "applecare": "$49 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$39" 
     }
   }
 }
