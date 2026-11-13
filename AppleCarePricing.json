@@ -166,17 +166,23 @@
       "service_fee": "$29",
       "bestbuy_url": "https://www.bestbuy.com/site/searchpage.jsp?st=Beats+Pill"
     },
-    "AirPods 5/Beats": {
+    "AirPods 5": {
       "applecare": "$29 (2 Year)",
       "theft_loss": "N/A",
       "service_fee": "$29",
-      "bestbuy_url": "https://www.bestbuy.com/site/searchpage.jsp?st=AirPods"
+      "bestbuy_url": "https://www.bestbuy.com/site/searchpage.jsp?st=AirPods+5"
+    },
+    "Beats Headphones": {
+      "applecare": "$29 (2 Year)",
+      "theft_loss": "N/A",
+      "service_fee": "$29",
+      "bestbuy_url": "https://www.bestbuy.com/site/searchpage.jsp?st=Beats+Headphones"
     },
     "AirPods Pro 3": {
       "applecare": "$39 (2 Year)",
       "theft_loss": "N/A",
       "service_fee": "$29",
-      "bestbuy_url": "https://www.bestbuy.com/site/searchpage.jsp?st=AirPods+Pro"
+      "bestbuy_url": "https://www.bestbuy.com/site/searchpage.jsp?st=AirPods+Pro+3"
     },
     "AirPods Max": {
       "applecare": "$59 (2 Year)",
